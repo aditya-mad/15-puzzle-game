@@ -45,5 +45,5 @@ Make sure you have C compiler installed.
 To compile the code, use the following commands:
 
 ```bash
-gcc 15_puzzle.c -o 15_puzzle
+gcc 15_Puzzle.c -o 15_puzzle
 ./15_puzzle
