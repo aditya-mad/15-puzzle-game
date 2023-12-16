@@ -1,4 +1,5 @@
 # 15 Puzzle Game
+Note: This project is Windows OS specific
 
 This is a console-based 15 Puzzle Game implemented in C. The game provides a shuffled grid of numbers, and the player needs to rearrange them in ascending order using arrow keys.
 
